@@ -1,7 +1,9 @@
 {
   "compilerOptions": {
+    "lib": ["es6", "dom"],
     "paths": {
       "@/*": ["./src/*"]
     }
   }
 }
+
